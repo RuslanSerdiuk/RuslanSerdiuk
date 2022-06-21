@@ -7,7 +7,7 @@
 
 - 🔭 I work at **EPAM Systems**
 
-- 🌱 I’m currently learning **Amazon Web Services** and preparing to exam
+- 🌱 I’m currently learning **[Amazon Web Services](https://github.com/RuslanSerdiuk/DevOps_Tasks_and_solutions/tree/main/AWS)** and preparing to Solutions Architect Associate exam.
 
 - 👨‍💻 All my examples of tasks are available at [This REPO](https://github.com/RuslanSerdiuk/DevOps_Tasks_and_solutions). **[Only my sample tasks. Not from a company work project!]**
 
