@@ -11,7 +11,7 @@
 
 - 👨‍💻 All my examples of tasks are available at [This REPO](https://github.com/RuslanSerdiuk/DevOps_Tasks_and_solutions). **[Only my sample tasks. Not from a company work project!]**
 
-- 📝 I regularly write basic [documentation](---) to quickly refresh my knowledge before an interview or assessment
+- 📝 I regularly write basic [documentation](https://github.com/RuslanSerdiuk/DevOps_Tasks_and_solutions/tree/Documentation/Documentation) to quickly refresh my knowledge before an interview or assessment
 
 - 💬 Ask me about **DevOps tools**
 
