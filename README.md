@@ -1,21 +1,21 @@
 ![MasterHead](https://www.memorystudiesassociation.org/wp-content/uploads/2020/11/digital-background-MSA.gif)
 <h1 align="center">Hi 👋, I'm Ruslan Serdiuk</h1>
-<h3 align="center">Junior DevOps Engineer from Ukraine</h3>
+<h3 align="center">DevOps Engineer from Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruslanserdiuk&label=Profile%20views&color=0e75b6&style=flat" alt="ruslanserdiuk" /> </p>
 
-- 🔭 I work at **EPAM Systems**
+- 🔭 Now I work for **EPAM Systems**
 
-- 🌱 I’m currently learning **[Amazon Web Services](https://github.com/RuslanSerdiuk/DevOps_Tasks_and_solutions/tree/main/AWS)** and preparing to Solutions Architect Associate exam.
+- 🌱 I passed the [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/1b2f5c2a-4a50-457d-be5c-13e50c68ff01/public_url) and [HashiCorp Certified Terraform Associate](https://www.credly.com/badges/d5704b60-9ef4-4d1b-8f62-8c6503cfcda2/public_url) exams. Currently I'm prepairing for CKA.
 
 - 👨‍💻 All my examples of tasks are available at [This REPO](https://github.com/RuslanSerdiuk/DevOps_Tasks_and_solutions). **[Only my sample tasks. Not from a company work project!]**
 
-- 📝 I regularly write basic [documentation](https://github.com/RuslanSerdiuk/DevOps_Tasks_and_solutions/tree/Documentation/Documentation) to quickly refresh my knowledge before an interview or assessment
+- 📝 I regularly write basic [documentation](https://github.com/RuslanSerdiuk/DevOps_Tasks_and_solutions/tree/main/Documentation) to quickly refresh my knowledge before an interview or assessment.
 
 - 💬 Ask me about **DevOps tools**
 
-- 📄 I have pretty well knowledge of basic DevOps tools and technologies like **Ansible, Docker, Kubernetes, Terraform, Jenkins, Linux and Bash scripting**. I have experience with cloud provider AWS, because I had to use it on the project.  Unconditionally, **I have the skills to create IaC**. Adherent of best practices in systems engineering, namely continuous integration and automation.
+- 📄 I have pretty well knowledge of basic DevOps tools and technologies with experience in production. Great understanding the project workflow and making decisions as System Engineer. My technology stack consists of **Terraform(+Vault), Ansible, CloudFormation, Jenkins, TeamCity, Gitlab CI, Docker, Kubernetes, Helm, Python, Bash, Linux, Git, etc**. Of course, I have experience with cloud provider AWS, because I had to use it on the project.  Unconditionally, **I have the skills to create IaC**. Adherent of best practices in systems engineering, namely continuous integration and automation.
 
 - 📫 You can contact me via email on my LinkedIn
 
